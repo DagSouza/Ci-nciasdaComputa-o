@@ -1,4 +1,4 @@
-# CIenciadaComputacao
+# CienciasdaComputacao
 
 Duração do Curso: _8 semestres_
 
