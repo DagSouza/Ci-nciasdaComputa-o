@@ -1,4 +1,4 @@
-#CienciasdaComputacao
+# Ciência da Computação - Unifeg
 
 Duração do Curso: _8 semestres_
 
